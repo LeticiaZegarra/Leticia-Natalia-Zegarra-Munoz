@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Leticia Natalia Zegarra Muñoz</title>
+</head>
+<body>
+
+<h1>Datos personales</h1>
+<p>Nombres: Leticia Natalia</p>
+<p>Apellidos: Zegarra Muñoz</p>
+<p>Fecha de nacimiento: 14/07/2006</p>
+<p>Edad: 18 años</p>
+
+<h2>Estudios universitarios</h2>
+<img src="https://ucsp.edu.pe/wp-content/uploads/2023/10/equipo-ucsp.jpg" alt="Equipo UCSP" width="600">
+<p>Universidad: <a href="https://ucsp.edu.pe/" target="_blank">Universidad Católica San Pablo</a></p>
+<p>Código de estudiante: 231-01-57820</p>
+<p>Correo electrónico: <a href="mailto:leticia.zegarra@ucsp.edu.pe">leticia.zegarra@ucsp.edu.pe</a></p>
+<p>Carrera: <a href="https://ucsp.edu.pe/carreras/administracion-negocios/" target="_blank">Administración de Negocios</a></p>
+<p>Semestre actual: 3</p>
+
+<h3>Mis Cursos</h3>
+    <ul>
+        <li><strong>Antropología ADM4-2:</strong> Jose Luis Begazo de la Torre</li>
+        <li><strong>Cálculo en una variable ADM3-3:</strong> Maribel Marianela Quiroz Zegarra</li>
+        <li><strong>Costos y Planeamiento Presupuestal ADM4-1:</strong> Raúl Valverde Quiroz</li>
+        <li><strong>Historia de la Cultura Occidental I PSI5-1:</strong> Amparo Isela Chalco Chávez</li>
+        <li><strong>Introducción de Ciencia de la Computación CCOMP2-1:</strong> Ernesto Cuadros Vargas</li>
+        <li><strong>Lógica ADM2-7:</strong> Yahaira Byrne Rivera</li>
+    </ul>
+
+</body>
+</html>
